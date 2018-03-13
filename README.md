@@ -1,2 +1,12 @@
-# climb
-Command Line Interface Mandelbrot explorer
+# CLIMB - COMMAND LINE MANDELBROT
+
+## PREREQUISITES
+    ncurses
+
+## BUILDING
+    make
+
+## MANUAL
+*TBD*   
+
+
